@@ -12,7 +12,7 @@ $ npm install node-tiklydown
 ```
 ### GitHuh Version 
 ```bash
-$ npm install github:caliphdev/ode-tiklydown 
+$ npm install github:caliphdev/node-tiklydown 
 ```
 
 ## Cara Penggunaan
