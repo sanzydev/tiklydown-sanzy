@@ -8,7 +8,7 @@ Wrapper For TiklyDown API to use download TikTok Post
 ## Cara Penggunaan
 
 ### Memanggil variabel v1 dan v2
-```
+```javascript
 const { v1, v2 } = require("node-tiklydown");
 ```
 ### Unduh Video TikTok
