@@ -1,5 +1,33 @@
 {
   "dependencies": {
     "axios": "^1.3.2"
-  }
+  },
+  "name": "node-tiklydown",
+  "description": "Wrapper For TiklyDown API to use download TikTok Post",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caliphdev/node-tiklydown.git"
+  },
+  "keywords": [
+    "tiktok-dl",
+    "tiktok-nowm",
+    "tiktok-downloader",
+    "tiklydown",
+    "tiktokdl"
+  ],
+  "author": "caliphdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caliphdev/node-tiklydown/issues"
+  },
+  "homepage": "https://github.com/caliphdev/node-tiklydown#readme"
 }
