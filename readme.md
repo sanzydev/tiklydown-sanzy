@@ -33,3 +33,4 @@ To download TikTok slide image, use `v2` function with TikTok slide image URL pa
 v2(url).then(data => {
   // Do something with the data
 });
+```
