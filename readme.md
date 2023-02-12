@@ -12,12 +12,10 @@ $ npm install node-tiklydown
 ```
 ### GitHuh Version 
 ```bash
-
 $ npm install github:caliphdev/ode-tiklydown 
-
 ```
-## Cara Penggunaan
 
+## Cara Penggunaan
 ### Memanggil variabel v1 dan v2
 ```javascript
 const { v1, v2 } = require("node-tiklydown");
