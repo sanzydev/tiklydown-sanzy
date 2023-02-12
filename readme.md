@@ -1,11 +1,11 @@
 # node-tiklydown 
 Wrapper For TiklyDown API to use download TikTok Post
 
-## Fitur
-- Unduh video TikTok
-- Unduh gambar slide TikTok
+## Features
+- Download TikTok videos
+- Download TikTok slide images
 
-## Instalasi 
+## Installation 
 ### NPM Version 
 ```bash
 $ npm install node-tiklydown 
@@ -15,22 +15,21 @@ $ npm install node-tiklydown
 $ npm install github:caliphdev/node-tiklydown 
 ```
 
-## Cara Penggunaan
-### Memanggil variabel v1 dan v2
+## Usage
+### Call v1 and v2 variables 
 ```javascript
 const { v1, v2 } = require("node-tiklydown");
 ```
-### Unduh Video TikTok
-Untuk mengunduh video TikTok, gunakan fungsi `v1` dengan parameter URL video TikTok.
+### Download TikTok Video 
+To download TikTok video, use `v1` function with TikTok video URL parameter. 
 ```javascript
 v1(url).then(data => {
   // Do something with the data
 });
 ```
-### Unduh Gambar Slide TikTok
-Untuk mengunduh gambar slide TikTok, gunakan fungsi `v2` dengan parameter URL gambar slide TikTok.
+### Download TikTok Slide Image 
+To download TikTok slide image, use `v2` function with TikTok slide image URL parameter. 
 ```javascript
 v2(url).then(data => {
   // Do something with the data
 });
-```
