@@ -5,6 +5,17 @@ Wrapper For TiklyDown API to use download TikTok Post
 - Unduh video TikTok
 - Unduh gambar slide TikTok
 
+## Instalasi 
+### NPM Version 
+```bash
+$ npm install node-tiklydown 
+```
+### GitHuh Version 
+```bash
+
+$ npm install github:caliphdev/ode-tiklydown 
+
+```
 ## Cara Penggunaan
 
 ### Memanggil variabel v1 dan v2
