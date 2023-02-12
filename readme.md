@@ -10,7 +10,7 @@ Wrapper For TiklyDown API to use download TikTok Post
 ```bash
 $ npm install node-tiklydown 
 ```
-### GitHuh Version 
+### GitHub Version 
 ```bash
 $ npm install github:caliphdev/node-tiklydown 
 ```
