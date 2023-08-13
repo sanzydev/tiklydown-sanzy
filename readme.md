@@ -8,17 +8,17 @@ Wrapper For TiklyDown API to use download TikTok Post
 ## Installation 
 ### NPM Version 
 ```bash
-$ npm install node-tiklydown 
+$ npm install tiklydown-sanzy
 ```
 ### GitHub Version 
 ```bash
-$ npm install github:caliphdev/node-tiklydown 
+$ npm install github:sanzydev/tiklydown-sanzy
 ```
 
 ## Usage
 ### Call v1 and v2 variables 
 ```javascript
-const { v1, v2 } = require("node-tiklydown");
+const { v1, v2 } = require("tiklydown-sanzy");
 ```
 ### Download TikTok Video 
 To download TikTok video, use `v1` function with TikTok video URL parameter. 

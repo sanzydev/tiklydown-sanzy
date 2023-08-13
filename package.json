@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caliphdev/node-tiklydown.git"
+    "url": "git+https://github.com/sanzydev/tiklydown-sanzy.git"
   },
   "keywords": [
     "tiktok-dl",
@@ -24,10 +24,10 @@
     "tiklydown",
     "tiktokdl"
   ],
-  "author": "caliphdev",
+  "author": "sanzydev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/caliphdev/node-tiklydown/issues"
+    "url": "https://github.com/sanzydev/tiklydown-sanzy/issues"
   },
-  "homepage": "https://github.com/caliphdev/node-tiklydown#readme"
+  "homepage": "https://github.com/sanzydev/tiklydown-sanzy#readme"
 }
